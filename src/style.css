@@ -11,3 +11,12 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
+.delete-button {
+  max-width: 30px;
+  color: red;
+  cursor: pointer;
+}
+.delete-button:hover {
+  color: rgb(125, 0, 0);
+}
